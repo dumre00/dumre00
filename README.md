@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @dumre00<br>- 👀 I’m interested in cybersecurity, data analysis and software development.<br>- 🌱 I’m currently learning software development.<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach:  me gokarnadumre@gmail.com, https://www.linkedin.com/in/gdum/
+- 👋 Hi, I’m @dumre00<br>- 👀 I’m interested in cybersecurity, data analysis and software development.<br>- 🌱 I’m currently learning software development, SQL.<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach:  me gokarnadumre@gmail.com, https://www.linkedin.com/in/gdum/
 
 
 ## 🌐 Socials:
@@ -15,14 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dumre00&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itsgorkiwiski) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gokarnadumre@gmail.com) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://www.amicsnepal.org/es/inicio/
