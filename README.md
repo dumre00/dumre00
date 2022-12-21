@@ -1,5 +1,5 @@
 # 💫Namaste
-- I’m @dumre00,<br>- 👀 I’m interested in cybersecurity, data analysis and software development.<br>- 🌱 I’m currently learning software development, SQL & JavaScript...<br>- 💞️ I’m looking to collaborate on any interesting projects related to IT...<br>- 📫 How to reach:  me gokarnadumre@gmail.com, https://www.linkedin.com/in/gdum/
+- I’m @dumre00,<br>- 👀 I’m interested in cybersecurity, data analysis and software development.<br>- 🌱 I’m currently learning software development, SQL & JavaScript...<br>- 💞️ I’m looking to collaborate on any interesting projects related to IT.<br>- 📫 How to reach:  me gokarnadumre@gmail.com, https://www.linkedin.com/in/gdum/
 
 
 ## 🌐 Socials:
